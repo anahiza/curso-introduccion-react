@@ -28,7 +28,6 @@ function App(props) {
         />
       ))}
     </TodoList>
-
     <CreateTodoButton />
   </React.Fragment>
   );     
