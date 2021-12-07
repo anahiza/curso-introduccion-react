@@ -10,7 +10,7 @@ import { CreateTodoButton } from './CreateTodoButton';
 const todos=[
   {text:"Cortar cebolla", completed:false},
   {text:"Curso platzi", completed:false},
-  {text:"Cortar cebolla", completed:false},
+  {text:"Leer libro", completed:false},
 ]
 
 function App(props) {
