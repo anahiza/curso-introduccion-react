@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-introduccion-react/static/css/main.15bc2cf3.chunk.css",
+    "main.js": "/curso-introduccion-react/static/js/main.28602ae7.chunk.js",
+    "main.js.map": "/curso-introduccion-react/static/js/main.28602ae7.chunk.js.map",
+    "runtime-main.js": "/curso-introduccion-react/static/js/runtime-main.2cd9bd20.js",
+    "runtime-main.js.map": "/curso-introduccion-react/static/js/runtime-main.2cd9bd20.js.map",
+    "static/js/2.733fb3a9.chunk.js": "/curso-introduccion-react/static/js/2.733fb3a9.chunk.js",
+    "static/js/2.733fb3a9.chunk.js.map": "/curso-introduccion-react/static/js/2.733fb3a9.chunk.js.map",
+    "index.html": "/curso-introduccion-react/index.html",
+    "static/css/main.15bc2cf3.chunk.css.map": "/curso-introduccion-react/static/css/main.15bc2cf3.chunk.css.map",
+    "static/js/2.733fb3a9.chunk.js.LICENSE.txt": "/curso-introduccion-react/static/js/2.733fb3a9.chunk.js.LICENSE.txt",
+    "static/media/check-circle.c0c3fcc0.svg": "/curso-introduccion-react/static/media/check-circle.c0c3fcc0.svg",
+    "static/media/close.273b87d3.svg": "/curso-introduccion-react/static/media/close.273b87d3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cd9bd20.js",
+    "static/js/2.733fb3a9.chunk.js",
+    "static/css/main.15bc2cf3.chunk.css",
+    "static/js/main.28602ae7.chunk.js"
+  ]
+}
